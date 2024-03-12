@@ -1,10 +1,10 @@
-# NSFW Art Gallery on GitHub
+# Art Gallery on GitHub
 
-Welcome to the NSFW Art Gallery on GitHub! This repository hosts a curated collection of artworks that may contain explicit or mature themes, including nudity, sexuality, or other adult content. We provide a platform for artists to share their work freely, without censorship, and for enthusiasts to explore a wide range of artistic expressions that may not be suitable for mainstream platforms.
+Welcome to the Art Gallery on GitHub! This repository hosts a curated collection of artworks that may contain explicit or mature themes, including nudity, sexuality, or other adult content. We provide a platform for artists to share their work freely, without censorship, and for enthusiasts to explore a wide range of artistic expressions that may not be suitable for mainstream platforms.
 
 ## Purpose
 
-The NSFW Art Gallery acknowledges the diverse and often controversial nature of art, embracing the idea that artistic expression should not be limited by societal norms or restrictions. Our goal is to create a space where artists can freely express themselves and where visitors can engage with and appreciate their work.
+The Art Gallery acknowledges the diverse and often controversial nature of art, embracing the idea that artistic expression should not be limited by societal norms or restrictions. Our goal is to create a space where artists can freely express themselves and where visitors can engage with and appreciate their work.
 
 ## Features
 
