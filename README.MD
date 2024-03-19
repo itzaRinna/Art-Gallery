@@ -16,6 +16,10 @@ The Art Gallery acknowledges the diverse and often controversial nature of art, 
 
 While we celebrate freedom of expression, we also maintain guidelines to ensure that the content remains within legal and ethical boundaries. Contributors are expected to adhere to these guidelines when submitting their work to the gallery.
 
+## License
+
+MIT
+
 ## How to Contribute
 
 To contribute your artwork to the Art Gallery, please follow these steps:
